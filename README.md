@@ -8,7 +8,7 @@
 
 /processing  文件夹为 上位机程序
 
-  	/processing/WheelChair_Kinect/WheelChair_Kinect.pde
+  	/processing/WheelChair_Kinect/WheelChair_Kinect.pde   为上位机Processing主程序
 
 ​	  /processing/WheelChair_Kinect/data    为上位机界面图片及音频文件
 
